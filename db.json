@@ -1,13 +1,30 @@
 {
-  "services": {
-
+  "base_url": {
+    "service1": "https://my-json-server.typicode.com/regiosousa/static-json1",
+    "service2": "https://my-json-server.typicode.com/regiosousa/static-json2"
   },
-  "endpoints": {
-    "events": "Ramon Henrique Ornelas",
-    "faqs": "ramon@ammora.email",
-    "library": "",
-    "notifications": "",
-    "user": "",
-    "videos": ""
+  "endpoints_ref": {
+    "events": "service1",
+    "faqs": "service1",
+    "library": "service1",
+    "notifications": "service1",
+    "user": "service1",
+    "videos": "service2"
+  },
+  "endpoints_path": {
+    "events": "/events",
+    "faqs": "/faqs",
+    "library": "/library",
+    "notifications": "/notifications",
+    "user": "/user",
+    "videos": "/videos"
+  },
+  "endpoints_url": {
+    "events": "https://my-json-server.typicode.com/regiosousa/static-json1/events",
+    "faqs": "https://my-json-server.typicode.com/regiosousa/static-json1/faqs",
+    "library": "https://my-json-server.typicode.com/regiosousa/static-json1/library",
+    "notifications": "https://my-json-server.typicode.com/regiosousa/static-json1/notifications",
+    "user": "https://my-json-server.typicode.com/regiosousa/static-json1/user",
+    "videos": "https://my-json-server.typicode.com/regiosousa/static-json2/videos"
   }
 }
