@@ -35,18 +35,6 @@
       "description": "Curso home office e família",
       "thumb": "https://img.youtube.com/vi/qpdmiAtFymo/0.jpg",
       "video": "https://www.youtube.com/watch?v=qpdmiAtFymo&ab_channel=FSSTGO"
-    },
-    {
-      "title": "Saúde mental no trabalho",
-      "description": "Módulo 1",
-      "thumb": "https://img.youtube.com/vi/RmN2zWzHs4g/0.jpg",
-      "video": "https://www.youtube.com/watch?v=RmN2zWzHs4g&ab_channel=FSSTGO"
-    },
-    {
-      "title": "Auto lideração e auto determinação",
-      "description": "Auto lideração e auto determinação",
-      "thumb": "https://img.youtube.com/vi/jrjRMLln3OU/0.jpg",
-      "video": "https://www.youtube.com/watch?v=jrjRMLln3OU&ab_channel=FSSTGO"
     }
   ],
   "library": [
@@ -77,34 +65,6 @@
       "title": "Ata 4",
       "author": "FSST GO",
       "file": "https://s3.us-east-2.amazonaws.com/termos.com/files/4_ata_sessao.pdf"
-    },
-    {
-      "date": "2018",
-      "thumb": "https://s3.us-east-2.amazonaws.com/termos.com/files/file.png",
-      "title": "Gestão de pessoas",
-      "author": "FSST GO",
-      "file": "https://s3.us-east-2.amazonaws.com/termos.com/files/coletanea-de-artigos_miolo.pdf"
-    },
-    {
-      "date": "2018",
-      "thumb": "https://s3.us-east-2.amazonaws.com/termos.com/files/file.png",
-      "title": "Saúde mental no trabalho",
-      "author": "FSST GO",
-      "file": "https://s3.us-east-2.amazonaws.com/termos.com/files/livro-saude-mental-no-trabalho-2013-prt18.pdf"
-    },
-    {
-      "date": "2018",
-      "thumb": "https://s3.us-east-2.amazonaws.com/termos.com/files/file.png",
-      "title": "Organização do trabalho e adoecimento",
-      "author": "FSST GO",
-      "file": "https://s3.us-east-2.amazonaws.com/termos.com/files/livro2.pdf"
-    },
-    {
-      "date": "2020",
-      "thumb": "https://s3.us-east-2.amazonaws.com/termos.com/files/file.png",
-      "title": "Política de enfermagem do trabalho",
-      "author": "FSST GO",
-      "file": "https://s3.us-east-2.amazonaws.com/termos.com/files/pericia_criminal.pdf"
     }
   ]
 }
